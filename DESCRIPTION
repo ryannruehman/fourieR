@@ -1,4 +1,4 @@
-Package: freqnomenal
+Package: fourieR
 Type: Package
 Title: Compute the DFT and PSD via Real-Valued Coefficient Decomposition
 Version: 0.1.0
